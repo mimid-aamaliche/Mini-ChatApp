@@ -71,10 +71,15 @@ namespace MiniChatAppDataAccessLayer
 
                 using (SqlConnection conn = new SqlConnection(clsConnectionSettings._connectionString))
                 using (SqlCommand cmd = new SqlCommand("GetUsers", conn))
-                {
+                {             
+                    
+                    conn.Open();
+                    cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                    
                     using (SqlDataReader reader = cmd.ExecuteReader()) {
 
-
+                        
+                        //Fill The List with Users
                         while (reader.Read()) {
 
                             UsersList.Add(new clsGetUserDTO() { 

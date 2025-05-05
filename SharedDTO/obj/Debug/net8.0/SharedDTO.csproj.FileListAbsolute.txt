@@ -9,3 +9,4 @@ C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\SharedDTO\obj\Debug\net8.0\
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\SharedDTO\obj\Debug\net8.0\refint\SharedDTO.dll
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\SharedDTO\obj\Debug\net8.0\SharedDTO.pdb
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\SharedDTO\obj\Debug\net8.0\ref\SharedDTO.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\SharedDTO\obj\Debug\net8.0\SharedDTO.sourcelink.json

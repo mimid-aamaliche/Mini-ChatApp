@@ -80,3 +80,4 @@ C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\Mini Chat App Server Side\b
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\Mini Chat App Server Side\bin\Debug\net8.0\ChatAppBusinessLogicLayer.pdb
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\Mini Chat App Server Side\bin\Debug\net8.0\SharedDTO.pdb
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\Mini Chat App Server Side\bin\Debug\net8.0\ChatAppDataAccess.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\Mini Chat App Server Side\obj\Debug\net8.0\Mini Chat App Server Side.sourcelink.json

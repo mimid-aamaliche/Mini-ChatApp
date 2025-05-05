@@ -11,5 +11,15 @@ namespace SharedDTOs
 
         public string Name { get; set; }
         public string UserName { get; set; }
+
+        public clsAddUserDTO()
+        {
+        }
+
+        public clsAddUserDTO(string name, string userName)
+        {
+            Name = name;
+            UserName = userName;
+        }
     }
 }

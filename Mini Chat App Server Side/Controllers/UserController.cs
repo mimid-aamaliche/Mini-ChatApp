@@ -71,7 +71,7 @@ namespace Mini_Chat_App_Server_Side.Controllers
 
 
 
-            return Ok("not found");
+            return Ok("Not Implimented Yet !!!!");
 
 
 
@@ -83,9 +83,24 @@ namespace Mini_Chat_App_Server_Side.Controllers
 
 
 
+        //Get Users 
 
 
 
+        [HttpGet("GetAll", Name = "GetUsers")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+
+        public ActionResult<IEnumerable<clsGetUserDTO>> GetAll() {
+
+
+            var userList = MiniChatAppbusinessLogicLayer.clsUser.GetAllUser();
+            if(userList.Count ==0)
+                return NoContent();
+        
+            return Ok(userList);
+        
+        }
 
 
 

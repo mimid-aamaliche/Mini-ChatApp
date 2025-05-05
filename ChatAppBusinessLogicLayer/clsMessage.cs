@@ -22,7 +22,12 @@ namespace MiniChatAppbusinessLogicLayer
 
         private DateTime SendTime { get; set; }
 
-        
+
+        public clsGetMessagesDTO GetMsgDTO { 
+                                    get { return new clsGetMessagesDTO(ID, Content, ContentType, SenderID, ReciverID, SendTime); }
+                                            }
+
+
         public clsMessage()
         {
             ID = -1;
@@ -30,6 +35,8 @@ namespace MiniChatAppbusinessLogicLayer
             ContentType = "";
             SenderID = -1;
             ReciverID = -1;
+
+            SendTime=DateTime.Now;
 
             _CurrentMode = enMode.enAddNewMode;
         }
@@ -55,10 +62,7 @@ namespace MiniChatAppbusinessLogicLayer
 
         private bool _AddNewMessage()
         {
-            this.ID = clsMessageData.AddNewMessage(new clsAddMessageDTO() { Content=this.Content,
-                                                                            ContentType=ContentType,
-                                                                            SenderID=this.SenderID,
-                                                                            ReciverID=this.ReciverID});
+            this.ID = clsMessageData.AddNewMessage(new clsAddMessageDTO(Content, ContentType, SenderID, ReciverID));
 
             return ID != -1;
         }

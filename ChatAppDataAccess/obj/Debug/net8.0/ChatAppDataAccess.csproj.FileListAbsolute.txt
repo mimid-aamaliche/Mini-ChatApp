@@ -13,3 +13,4 @@ C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\refint\ChatAppDataAccess.dll
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.pdb
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ref\ChatAppDataAccess.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.sourcelink.json

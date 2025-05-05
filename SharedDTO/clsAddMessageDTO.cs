@@ -14,10 +14,16 @@ namespace SharedDTOs
         public int SenderID { get; set; }
         public int ReciverID { get; set; }
 
+        public clsAddMessageDTO()
+        {
+        }
 
-
-
-
-
+        public clsAddMessageDTO(string content, string contentType, int senderID, int reciverID)
+        {
+            Content = content;
+            ContentType = contentType;
+            SenderID = senderID;
+            ReciverID = reciverID;
+        }
     }
 }

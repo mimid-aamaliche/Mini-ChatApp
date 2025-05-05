@@ -1,5 +1,41 @@
 [
   {
+    "ContainingType": "Mini_Chat_App_Server_Side.Controllers.MessageController",
+    "Method": "AddMessage",
+    "RelativePath": "api/Message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "msgdto",
+        "Type": "SharedDTOs.clsAddMessageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SharedDTOs.clsGetMessagesDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "AddMessage"
+  },
+  {
     "ContainingType": "Mini_Chat_App_Server_Side.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "api/User",
@@ -70,5 +106,31 @@
       }
     ],
     "EndpointName": "GetUserByUserName"
+  },
+  {
+    "ContainingType": "Mini_Chat_App_Server_Side.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/User/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SharedDTOs.clsGetUserDTO, SharedDTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ],
+    "EndpointName": "GetUsers"
   }
 ]

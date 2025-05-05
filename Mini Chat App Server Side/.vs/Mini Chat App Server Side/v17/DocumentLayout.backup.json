@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{997679DA-8FDA-4D45-A015-E8A2CA1D372C}|Mini Chat App Server Side.csproj|c:\\users\\lenovo\\desktop\\minichatappusing restful api\\mini chat app server side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{997679DA-8FDA-4D45-A015-E8A2CA1D372C}|Mini Chat App Server Side.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0386F764-DABE-45F0-B3E2-D836C9199FF4}|..\\ChatAppBusinessLogicLayer\\ChatAppBusinessLogicLayer.csproj|c:\\users\\lenovo\\desktop\\minichatappusing restful api\\chatappbusinesslogiclayer\\clsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B09F6-47E1-4B38-9346-0CB495ACA5A7}|..\\ChatAppDataAccess\\ChatAppDataAccess.csproj|c:\\users\\lenovo\\desktop\\minichatappusing restful api\\chatappdataaccess\\clsmessagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997679DA-8FDA-4D45-A015-E8A2CA1D372C}|Mini Chat App Server Side.csproj|c:\\users\\lenovo\\desktop\\minichatappusing restful api\\mini chat app server side\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997679DA-8FDA-4D45-A015-E8A2CA1D372C}|Mini Chat App Server Side.csproj|solutionrelative:controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{997679DA-8FDA-4D45-A015-E8A2CA1D372C}|Mini Chat App Server Side.csproj|c:\\users\\lenovo\\desktop\\minichatappusing restful api\\mini chat app server side\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,32 +24,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "clsMessageData.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\ChatAppDataAccess\\clsMessageData.cs",
+              "RelativeDocumentMoniker": "..\\ChatAppDataAccess\\clsMessageData.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\ChatAppDataAccess\\clsMessageData.cs",
+              "RelativeToolTip": "..\\ChatAppDataAccess\\clsMessageData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T03:07:04.646Z",
+              "WhenOpened": "2025-05-05T21:37:21.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "clsMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\ChatAppBusinessLogicLayer\\clsMessage.cs",
+              "RelativeDocumentMoniker": "..\\ChatAppBusinessLogicLayer\\clsMessage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\ChatAppBusinessLogicLayer\\clsMessage.cs*",
+              "RelativeToolTip": "..\\ChatAppBusinessLogicLayer\\clsMessage.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:30:21.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:26:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MiniChatAppUsing Restful API\\Mini Chat App Server Side\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T02:33:47.309Z"
+              "WhenOpened": "2025-05-05T02:33:47.309Z",
+              "EditorCaption": ""
             }
           ]
         }

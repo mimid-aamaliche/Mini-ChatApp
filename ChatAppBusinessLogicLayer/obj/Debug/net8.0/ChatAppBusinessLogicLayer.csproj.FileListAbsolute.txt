@@ -15,3 +15,4 @@ C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\o
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\refint\ChatAppBusinessLogicLayer.dll
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.pdb
 C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ref\ChatAppBusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.sourcelink.json
