@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\ChatAppBusinessLogicLayer.deps.json
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\ChatAppBusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\ChatAppBusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\ChatAppDataAccess.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\SharedDTO.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\ChatAppDataAccess.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\bin\Debug\net8.0\SharedDTO.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppB.CC864AC1.Up2Date
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\refint\ChatAppBusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ChatAppBusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppBusinessLogicLayer\obj\Debug\net8.0\ref\ChatAppBusinessLogicLayer.dll

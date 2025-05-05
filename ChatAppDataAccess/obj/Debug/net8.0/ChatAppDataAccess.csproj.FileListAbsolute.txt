@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\bin\Debug\net8.0\ChatAppDataAccess.deps.json
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\bin\Debug\net8.0\ChatAppDataAccess.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\bin\Debug\net8.0\ChatAppDataAccess.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\bin\Debug\net8.0\SharedDTO.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\bin\Debug\net8.0\SharedDTO.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppD.E647FB6A.Up2Date
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\refint\ChatAppDataAccess.dll
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ChatAppDataAccess.pdb
+C:\Users\Lenovo\Desktop\MiniChatAppUsing Restful API\ChatAppDataAccess\obj\Debug\net8.0\ref\ChatAppDataAccess.dll
